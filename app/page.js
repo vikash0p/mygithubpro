@@ -7,6 +7,9 @@ const page = () => {
       <h1>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ex nesciunt numquam, nam non voluptatum cumque magnam veniam dolor distinctio alias!</h1>
       <h2>Lorem ipsum dolor sit amet.</h2>
       <h3>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vero, numquam!</h3>
+      <h3>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vero, numquam!</h3>
+      <h3>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vero, numquam!</h3>
+      <h3>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vero, numquam!</h3>
     </div>
   )
 }
